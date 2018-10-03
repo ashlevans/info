@@ -28,6 +28,7 @@ class Layout extends React.Component {
             ]}
           >
             <link rel="shortcut icon" href={icon} type="image/png" />
+            <link crossorigin="anonymous" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" rel="stylesheet" />
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.15.0/themes/prism.min.css" />
           </Helmet>
           <div style={{position:'fixed', zIndex:'99999', top: '0', left: '45%'}}>
