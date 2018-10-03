@@ -44,7 +44,9 @@ const enTranslation = {
   "MainNavigation":"Main Navigation",
   "SubNavigation":"Sub Navigation",
   "Reply":"Reply",
-  "Pressed":"Pressed"
+  "Pressed":"Pressed",
+  // STARTS HERE
+  
 };
 
 export default enTranslation;

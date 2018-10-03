@@ -3,6 +3,7 @@
   "description": "Ashley's Website",
   "version": "1.0.0",
   "author": "GCTools Team",
+  "homepage": "https://ashlevans.github.io/info/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.4",
     "@fortawesome/free-brands-svg-icons": "^5.3.1",
@@ -64,6 +65,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ashlevans/ashlevans.github.io"
+    "url": "https://github.com/ashlevans/info"
   }
 }
