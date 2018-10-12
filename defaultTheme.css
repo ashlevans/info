@@ -3,3 +3,19 @@
   padding-right: 250px;
 }
 
+#my-hero-holder {
+  background-image: url("Banner-Design.png")
+}
+
+.bg-success {
+  background-color: #278400!important;
+  color: white;
+}
+
+.left-table {
+  text-align: left;
+}
+
+td, th {
+  text-align: center;
+}
