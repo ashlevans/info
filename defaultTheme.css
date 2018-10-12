@@ -8,7 +8,11 @@
 }
 
 .bg-success {
-  background-color: #278400!important;
+  background-color: #278400 !important;
+  color: white;
+}
+.bg-danger {
+  background-color: orange !important;
   color: white;
 }
 
@@ -18,4 +22,8 @@
 
 td, th {
   text-align: center;
+}
+
+.text-danger {
+  color: blue;
 }
