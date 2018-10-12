@@ -1,1 +1,1 @@
-# If you are reading this, Ashley needs to go to the settings tab in the repository and under github pages you make default branch gh-pages
+Info.gccollab description
