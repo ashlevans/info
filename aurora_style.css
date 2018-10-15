@@ -7072,10 +7072,10 @@ a.ext-link-text {
 }
 }
 .hero-holder {
-	background-image: url(https://raw.githubusercontent.com/gctools-outilsgc/design-system/master/project_mgmt/Aurora-Banner-large.png);
+	background-image: url(https://);
 	background-size: cover;
-	height: 695px;
-	padding: 70px 0;
+	/*height: 695px;*/
+	/*padding: 70px 0;*/
 }
 .hero-holder .lead {
 	max-width: 70%;
@@ -7107,17 +7107,17 @@ a.ext-link-text {
 	background-position-y: 195px;
 	background-repeat: no-repeat;
 	background-size: contain;
-	height: 535px;
+	/*height: 535px;*/
 	padding: 0;
 }
 .hero-holder .lead {
 	max-width: 100%;
 }
 .hero-holder .container {
-	margin-top: 20px;
+	/*margin-top: 20px;*/
 }
 .home-body {
-	margin-top: 40px;
+	margin-top: 10%;
 }
 .footer-holder {
 	background-image: none;
