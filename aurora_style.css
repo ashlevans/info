@@ -6546,14 +6546,10 @@ h2, h3 {
 	page-break-after: avoid;
 }
 	
-	h2::before { 
-  display: block; 
-  content: " "; 
-  margin-top: -285px; 
-  height: 285px; 
-  visibility: hidden; 
-  pointer-events: none;
+	.anchor {
+  position: relative;
 }
+	
 @page{size:a3}
 .container, body {
 	min-width: 992px!important;
